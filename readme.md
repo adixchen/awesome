@@ -635,6 +635,7 @@
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
+- [Awesome on Bookmarks.dev](https://www.bookmarks.dev?q=[awesome-list]) - Dev Bookmarks tagged [awesome-list]
 
 
 ## License
